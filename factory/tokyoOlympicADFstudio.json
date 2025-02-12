@@ -1,0 +1,9 @@
+{
+	"name": "tokyoOlympicADFstudio",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8e9a1125-42a2-4765-8ca2-996dce59815a",
+		"tenantId": "6c8791b5-c413-43b1-8748-925fa2e26ced"
+	}
+}
