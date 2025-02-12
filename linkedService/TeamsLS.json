@@ -1,0 +1,12 @@
+{
+	"name": "TeamsLS",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/Junaidhasan373/Olympic-Data-analytics-Data-Engineering-/main/Teams.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
